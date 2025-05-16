@@ -5,6 +5,7 @@ seaborn==0.12.2
 python-telegram-bot==20.3
 websockets==11.0.3
 scikit-learn==1.2.2
+ccxt
 asyncio
 tensorflow==2.11.0
 ta==0.10.2
