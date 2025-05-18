@@ -9,3 +9,4 @@ ccxt
 asyncio
 tensorflow==2.11.0
 ta==0.10.2
+TA-Lib==0.4.0
